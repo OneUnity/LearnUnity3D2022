@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: a884ad10273422c4898819915000cb50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - btnSquare: {instanceID: 0}
+  - btnCircle: {instanceID: 0}
+  - btnSquareforItem: {instanceID: 0}
+  - btnSquareforShop: {instanceID: 0}
+  - btnSquareforMessage: {instanceID: 0}
+  - btnSquareforMission: {instanceID: 0}
+  - btnSquareforRanking: {instanceID: 0}
+  - btnSquareforSetting: {instanceID: 0}
+  - btnSquareforHeartPlus: {instanceID: 0}
+  - btnSquareforGoldPlus: {instanceID: 0}
+  - btnSquareforGemPlus: {instanceID: 0}
+  - btnSquareforAddFriend: {instanceID: 0}
+  - HPSlider: {instanceID: 0}
+  - ExpSlider: {instanceID: 0}
+  - UILoginPopUp: {fileID: 4918096420325605986, guid: f6937bb4de6c86e429d65d40135f1255, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
